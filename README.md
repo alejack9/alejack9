@@ -10,7 +10,7 @@
 
 <table width="100%">
   <tr>
-    <td valign="center" align="center" width="50%">
+    <td valign="center" align="center" width="60%">
   <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=alejack9&count_private=true&show_icons=true&hide_border=true&theme=great-gatsby&border_radius=10" alt="Anurag's GitHub stats" width="425" />
   </a>
