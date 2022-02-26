@@ -24,5 +24,9 @@
   </tr>
 </table>
 
-<div align="center">
-</div>
+---
+
+## Latest Gists
+
+<!-- GIST-LIST:START -->
+<!-- GIST-LIST:END -->

@@ -1,0 +1,19 @@
+name: Latest Gists workflow
+on:
+  schedule: # Run workflow automatically
+    - cron: "0 0 * * *" # Runs every day at midnight
+  workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the Github Actions Workflow page directly
+
+jobs:
+  update-readme-with-gists:
+    name: Update this repo's README.md with latest Gists
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: Add Latest Gists to README.md
+        uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: "GIST-LIST"
+          commit_message: "Updated README.md with the latest Gists"
+          feed_list: "https://gist.github.com/alejack9.atom"
