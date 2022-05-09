@@ -29,5 +29,5 @@
 ## Latest Gists
 
 <!-- GIST-LIST:START -->
-- [Plays &quot;default.mp3&quot; or a specified file after the specified time. Usage: ./wake_me_in.sh &quot;5m 3s&quot; my_awesome_alarms.mp3](https://gist.github.com/alejack9/fd0857117e35933183851794bd003f5b)
+- [Plays &quot;default.mp3&quot; or a specified file after the specified time. Usage: ./wake_me_in.sh &quot;5m 3s&quot; my_awesome_alarm.mp3](https://gist.github.com/alejack9/fd0857117e35933183851794bd003f5b)
 <!-- GIST-LIST:END -->
