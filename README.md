@@ -4,7 +4,7 @@
 
 - 🏡 Based in Ancona
 - 🤓 Currently studying Software Techniques at the University of Bologna
-- 🌱 Interested in volleyball 🏐, self improvement 🧘 and reading 📖
+- 🌱 Interested in volleyball 🏐, self improvement 🧘, reading 📖 and 👩 [@burububbu](https://github.com/burububbu)
 - 🎓 Bachelor degree in Computer Science at the University of Camerino
 
 
