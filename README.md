@@ -3,9 +3,9 @@
 ## About Me
 
 - 🏡 Based in Ancona
-- 🤓 Currently studying Software Techniques at the University of Bologna
+- 💻 Currently working in Prometeia
 - 🌱 Interested in volleyball 🏐, self improvement 🧘, reading 📖 and 👩 [@burububbu](https://github.com/burububbu)
-- 🎓 Bachelor degree in Computer Science at the University of Camerino
+- 🎓 Bachelor degree in Software Techniques at the University of Bologna
 
 
 <table width="100%">
